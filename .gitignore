@@ -39,3 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 input/actual/*day**.txt
+scratchpad.R
